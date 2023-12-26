@@ -36,7 +36,7 @@ Flat head screw ø: M3 (length: 12mm for use with support)
 ## Platforms
 
 - [Thingiverse](https://www.thingiverse.com/thing:6399885)
-- Cults3D: WIP
+- [Cults3D](https://cults3d.com/fr/mod%C3%A8le-3d/gadget/rj45-keystone-rack)
 
 ## Licence
 
